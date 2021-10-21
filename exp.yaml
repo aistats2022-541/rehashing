@@ -1,0 +1,4 @@
+dataset: [covtype]
+eps: [0.5, 1.0, 2.0] 
+algorithms: [hbe, rs]
+
